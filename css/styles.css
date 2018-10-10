@@ -1,0 +1,12 @@
+.about {
+  font-style: italic;
+  font-size: 25px;
+  background-color: #38370A;
+  text-shadow: 2px 2px red;
+
+}
+
+#blogger {
+  border: 5px dashed black;
+
+}
