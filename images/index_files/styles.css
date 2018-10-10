@@ -10,21 +10,6 @@
   font-size: 15px;
 }
 
-.post-1 {
-  font-weight: bolder;
-  text-shadow: 1px 1px black;
-}
-
-.post-2 {
-  font-weight: bold;
-  text-shadow: 2px 2px black;
-}
-
-.post-3 {
-  font-weight: bolder;
-  text-shadow: 3px 3px black;
-}
-
 #blogger {
   border: 5px dashed black;
 }
